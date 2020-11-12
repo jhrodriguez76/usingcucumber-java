@@ -4,7 +4,7 @@ public class Letter {
     String theLetter;
 
     public Letter(){
-        theLetter = "A";
+        theLetter = "XY";
     }
 
     public String giveLetter(){
